@@ -1,0 +1,7 @@
+* {
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-image: url(./assets/bg.png);
+}
